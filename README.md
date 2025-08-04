@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:76b0d9&width=1500&height=240&section=header&text=Sunwoo's%20Github!&fontSize=50&fontColor=ffffff ) 
 <!--
 **sunwoopark27/sunwoopark27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
