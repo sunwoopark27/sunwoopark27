@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${150}&section=header&text=${Sunwoo's GitHub}&fontSize=${40}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=$wave&color=auto&height=$150&section=header&text=$Sunwoo's GitHub&fontSize=$40&animation=$twinkling)
 
 // 내 옵션
 배경타입 : waving
