@@ -29,7 +29,7 @@
 </div>
 
 </div>
-## 🏃‍♀️ Github-stats  
+<!-- ## 🏃‍♀️ Github-stats -->  
 
 <!--
 <img src="https://raw.githubusercontent.com/sunwoopark27/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/sunwoopark27/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
