@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:76b0d9&width=1500&height=240&section=header&text="Sunwoo's%20Github!🍀"&fontSize=50&fontColor=ffffff ) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:76b0d9&width=1500&height=240&section=header&text="Sunwoo's%20Github!"&fontSize=50&fontColor=ffffff ) 
 
 ## 📚Stacks
 <div align="center">
