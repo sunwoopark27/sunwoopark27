@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   
-##📫Contact
+## 📫Contact
 <div align=center>
           <a href="mailto:sun960127@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sun960127@gmail.com"> </a>
   
