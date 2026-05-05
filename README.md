@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   
 ## 📫Contact
-<div align=center>
+<div align="center">
           <a href="mailto:sun960127@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sun960127@gmail.com"> </a>
   
   <!--
